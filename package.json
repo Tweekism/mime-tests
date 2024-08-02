@@ -6,6 +6,7 @@
   "license": "MIT",
   "dependencies": {
     "file-type": "^19.3.0",
+    "mime-types": "^2.1.35",
     "read-chunk": "^5.0.0"
   }
 }
