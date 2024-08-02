@@ -1,0 +1,11 @@
+{
+  "name": "file-type",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "file-type": "^19.3.0",
+    "read-chunk": "^5.0.0"
+  }
+}
